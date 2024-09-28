@@ -27087,8 +27087,8 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Alexandrie Grenier",
-    title: "Web Designer & Content Creator",
+    name: "Bruno Viola",
+    title: "Computer Science Student",
     email: "alex@example.com",
     gitHub: "microsoft",
     instagram: "microsoft",
@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a computer sciences student studying at State University of Londrina.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28893,6 +28893,6 @@ $RefreshReg$(_c, "Portfolio");
 },{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/design-desk.jpeg":"jSSP3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"jSSP3":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "design-desk.df4cd0cf.jpeg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
+},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire3ff1")
 
 //# sourceMappingURL=index.975ef6c8.js.map
