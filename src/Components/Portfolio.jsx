@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Conway's Game of Life",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project was developed in C language during the 1st semester of the Computer Science program.",
+    url: "https://github.com/BrunoViola/jogo-da-vida",
   },
   {
     title: "Web Development for Beginners",

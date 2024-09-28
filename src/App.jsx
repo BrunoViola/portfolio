@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Bruno Viola",
   title: "Computer Science Student",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "bruno.henrique.silva.viola@uel.br",
+  gitHub: "brunoviola",
+  instagram: "",
+  linkedIn: "bruno-henrique-silva-viola",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
