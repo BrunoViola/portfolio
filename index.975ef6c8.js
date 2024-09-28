@@ -27089,13 +27089,13 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Bruno Viola",
     title: "Computer Science Student",
-    email: "alex@example.com",
-    gitHub: "microsoft",
-    instagram: "microsoft",
-    linkedIn: "satyanadella",
+    email: "bruno.henrique.silva.viola@uel.br",
+    gitHub: "brunoviola",
+    instagram: "",
+    linkedIn: "bruno-henrique-silva-viola",
     medium: "",
-    twitter: "microsoft",
-    youTube: "Code"
+    twitter: "",
+    youTube: ""
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28759,9 +28759,9 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "Conway's Game of Life",
+        description: "This project was developed in C language during the 1st semester of the Computer Science program.",
+        url: "https://github.com/BrunoViola/jogo-da-vida"
     },
     {
         title: "Web Development for Beginners",
